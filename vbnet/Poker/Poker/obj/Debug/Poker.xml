@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Poker
+</name>
+</assembly>
+<members>
+<member name="T:Poker.My.Resources.Resources">
+<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member>
+<member name="P:Poker.My.Resources.Resources.ResourceManager">
+<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member>
+<member name="P:Poker.My.Resources.Resources.Culture">
+<summary>
+  すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member>
+<member name="P:Poker.My.Resources.Resources.Back">
+<summary>
+  型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+</summary>
+</member>
+<member name="P:Poker.C_Hand.CardStack">
+ <summary>
+ カードの使用状況（山札）。0: 未使用、1: 使用済。
+ </summary>
+ <returns>カードリスト</returns>
+</member>
+<member name="P:Poker.C_Hand.Card">
+ <summary>
+ 現在のカード
+ </summary>
+ <returns> {マーク(ジョーカーは4)、数字(ジョーカーは15,16)} </returns>
+</member>
+<member name="M:Poker.Form1.ShowRank(System.String)">
+ <summary>
+ フォーム中央に役を表示（ボタンの形を変更）
+ </summary>
+ <param name="i_strText"></param>
+</member>
+<member name="M:Poker.Form1.gradation">
+ <summary>
+ グラデーションを返す。cotrol.Imageに適用で反映
+ </summary>
+ <returns>Button1の大きさのグラデーション</returns>
+</member>
+</members>
+</doc>
