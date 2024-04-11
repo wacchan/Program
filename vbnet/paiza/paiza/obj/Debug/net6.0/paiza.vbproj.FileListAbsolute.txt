@@ -1,0 +1,14 @@
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\bin\Debug\net6.0\paiza.exe
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\bin\Debug\net6.0\paiza.deps.json
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\bin\Debug\net6.0\paiza.runtimeconfig.json
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\bin\Debug\net6.0\paiza.dll
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\bin\Debug\net6.0\paiza.pdb
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.AssemblyInfoInputs.cache
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.AssemblyInfo.vb
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.vbproj.CoreCompileInputs.cache
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.dll
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\refint\paiza.dll
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.pdb
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\paiza.genruntimeconfig.cache
+C:\Users\watanabets\Desktop\2023_introTR\VB研修\pai\paiza\obj\Debug\net6.0\ref\paiza.dll
