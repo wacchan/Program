@@ -53,6 +53,7 @@ python demo.py
 * 所属
 * E-mail
 
+<!--
 # License
 ライセンスを明示する
 
@@ -61,3 +62,5 @@ python demo.py
 社内向けなら社外秘であることを明示してる
 
 "hoge" is Confidential.
+-->
+
